@@ -1,4 +1,4 @@
-[![cn-hideyoshi's github stats](https://github-readme-stats-duanluan.vercel.app/api?username=cn-hideyoshi&count_private=true&show_icons=true&theme=buefy)](https://github.com/cn-hideyoshi)
+[![cn-hideyoshi's github stats](https://github-readme-stats-jkl4qisj2-cn-hideyoshis-projects.vercel.app/api?username=cn-hideyoshi&count_private=true&show_icons=true&theme=buefy)](https://github.com/cn-hideyoshi)
 # 网站
 
 - [HIDEYOSHI's BLOG](https://blog.hideyoshi.top/)
