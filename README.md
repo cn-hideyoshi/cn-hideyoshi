@@ -1,12 +1,8 @@
 # 🛠️ 你好，我是 [cn-hideyoshi]
 
-## 📊 个人状态 (GitHub Stats)
 
-| 提交活跃度 (Commit History) | 核心语言 (Top Languages) |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=cn-hideyoshi&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cn-hideyoshi&layout=compact&theme=radical&langs_count=6) |
+![](https://raw.githubusercontent.com/cn-hideyoshi/cn-hideyoshi/refs/heads/snake/github-contribution-grid-snake.svg)
 
----
 
 ## 🌐 个人门户
 * **技术博客:** [HIDEYOSHI's BLOG](https://blog.hideyoshi.top)
