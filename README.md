@@ -1,7 +1,7 @@
 # 🛠️ 你好，我是 [cn-hideyoshi]
 
 
-![](https://raw.githubusercontent.com/cn-hideyoshi/cn-hideyoshi/refs/heads/snake/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/cn-hideyoshi/cn-hideyoshi/refs/heads/snk/github-contribution-grid-snake.svg)
 
 
 ## 🌐 个人门户
