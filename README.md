@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 个人门户
-* **技术博客:** [https://blog.hideyoshi.top](https://blog.hideyoshi.top)
+* **技术博客:** [HIDEYOSHI's BLOG](https://blog.hideyoshi.top)
 <!-- * **联系我:** [你的邮箱/社交账号] -->
 
 ---
