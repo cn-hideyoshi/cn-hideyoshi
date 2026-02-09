@@ -1,4 +1,4 @@
-# 🛠️ 你好，我是 [cn-hideyoshi]
+# 🛠️ 你好，我是 [cn-hideyoshi] 善于挖坑但不填的懒人
 
 
 ![](https://raw.githubusercontent.com/cn-hideyoshi/cn-hideyoshi/refs/heads/snk/github-contribution-grid-snake.svg)
