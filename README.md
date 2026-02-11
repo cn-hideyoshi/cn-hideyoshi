@@ -28,8 +28,8 @@
 
 ### 🔥 主要项目 (Main Projects)
 *长期维护，生产环境可用。*
-- **[HUtil](https://github.com/cn-hideyoshi/HUtil)** - 基于GO的工具仓库
-- **[H-box](https://github.com/cn-hideyoshi/H-box)** - 基于HUtil的桌面端
+- **[HUtil](https://github.com/cn-hideyoshi/HUtil)** - 基于GO的工具类仓库
+- **[H-toolkit](https://github.com/cn-hideyoshi/H-toolkit)** - 基于HUtil的桌面端工具箱
 
 ### 📅 规划项目 (Planned)
 *灵感孵化中，敬请期待。*
